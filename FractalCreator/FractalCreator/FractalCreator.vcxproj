@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7776d91d-e021-4c5f-8729-f560798fb882}</ProjectGuid>
+    <ProjectGuid>{da5db62a-dc4c-45a7-97ae-5e821c0f203b}</ProjectGuid>
     <RootNamespace>FractalCreator</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
