@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\auris\Desktop\FractalCreator\FractalCreator\src\main.cpp(21,42): warning C4307: '*': signed integral constant overflow
+C:\Users\auris\Desktop\FractalCreator\FractalCreator\src\main.cpp(66,16): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  FractalCreator.vcxproj -> C:\Users\auris\Desktop\FractalCreator\Debug\FractalCreator.exe

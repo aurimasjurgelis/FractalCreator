@@ -1,0 +1,16 @@
+﻿  RGB.cpp
+  FractalCreator.cpp
+C:\Users\auris\Desktop\FractalCreator\FractalCreator\src\FractalCreator.cpp(31,30): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\auris\Desktop\FractalCreator\FractalCreator\src\FractalCreator.cpp(122,24): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\auris\Desktop\FractalCreator\FractalCreator\src\FractalCreator.cpp(123,26): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\auris\Desktop\FractalCreator\FractalCreator\src\FractalCreator.cpp(124,25): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  Bitmap.cpp
+C:\Users\auris\Desktop\FractalCreator\FractalCreator\src\Bitmap.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  main.cpp
+  ZoomList.cpp
+  Generating Code...
+  FractalCreator.vcxproj -> C:\Users\auris\Desktop\FractalCreator\x64\Debug\FractalCreator.exe
